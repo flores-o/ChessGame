@@ -1,2 +1,2 @@
 # ChessGame
-A multiplayer chess game based on client-server arhitecture. This was a 4 people team project.
+A multiplayer chess game based on client-server arhitecture. This was a 4 people team project for the course "Software Development Methods".
